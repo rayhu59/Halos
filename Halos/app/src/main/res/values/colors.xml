@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="accentBlue">#66ccff</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#ffff33</color>
+    <color name="pink">#ffccff</color>
+    <color name="blue">#b3ecff</color>
+    <color name="green">#ccffcc</color>
+    <color name="gold">#ffcc00</color>
+    <color name="halos_blue">#242f3e</color>
+    <color name="halos_orange">#d59563</color>
+</resources>
